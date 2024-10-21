@@ -17,7 +17,7 @@ Me considero una persona comprometida, de rápido aprendizaje, con gran facilida
 
 - **Lenguajes de Programación**: Python, SQL
 - **Herramientas de BI**: Power BI, Tableau
-- **Hojas de Cálculo**: Excel
+- **Hojas de Cálculo**: Excel, Google Spreadsheets
 - **Bases de Datos**: SQL Server, MySQL
 
 ---
