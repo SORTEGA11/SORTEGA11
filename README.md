@@ -1,6 +1,6 @@
 # mi-perfil
 
-# 💼 Samuel Ortega López
+# 💼 Samuel Ortega López  *("Optimización de procesos con soluciones basadas en datos")*
 
 **Ingeniero Industrial** | **Data Analyst**
 
