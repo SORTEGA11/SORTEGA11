@@ -1,4 +1,4 @@
-# mi-perfil
+![Banner Image](https://github.com/SORTEGA11/SORTEGA11/blob/main/Pink%20and%20Blue%203D%20Hologram%20Content%20Creator%20LinkedIn%20Banner.png?raw=true)
 
 # 💼 Samuel Ortega López  *("Optimización de procesos con soluciones basadas en datos")*
 
